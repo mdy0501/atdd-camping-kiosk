@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 8081
 
 spring:
   application:
@@ -11,7 +11,7 @@ spring:
 
 kiosk:
   admin:
-    base-url: http://localhost:8080
+    base-url: http://localhost:18082
     auth:
       username: admin
       password: admin123
